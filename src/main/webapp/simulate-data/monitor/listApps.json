@@ -1,0 +1,18 @@
+{
+  "datas":[
+    {"id":"HIP0501","name":"监控平台","hasError":"false"},
+    {"id":"HIP0102","name":"闭环展示","hasError":"false"},
+    {"id":"HIP0202","name":"BI-大屏","hasError":"false"},
+    {"id":"HIS0102","name":"住院收费系统","hasError":"true"},
+    {"id":"HIP0101","name":"Portal","hasError":"false"},
+    {"id":"HIS0105","name":"门诊医生站","hasError":"true"},
+    {"id":"HIP0203","name":"数据服务-HIP0203","hasError":"false"},
+    {"id":"HIS0105","name":"住院医生站","hasError":"true"},
+    {"id":"HIS0120","name":"移动护理系统","hasError":"false"},
+    {"id":"HIS0109","name":"临床检验系统","hasError":"false"},
+    {"id":"HIS0106","name":"住院护士工作站","hasError":"false"},
+    {"id":"HIS0115","name":"输血管理系统","hasError":"false"},
+    {"id":"HIS0303","name":"药品管理系统","hasError":"false"}
+  ],
+  "success":true
+}

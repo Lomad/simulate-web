@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "services": [
+    {
+      "serverName":"WinEMPI",
+      "serviceName": "个人基本信息查询",
+      "count": "3"
+    },
+    {
+      "serverName":"WinEMPI",
+      "serviceName": "门诊就诊登记服务",
+      "count": "2"
+    },
+    {
+      "serverName":"WinEMPI",
+      "serviceName": "出院登记服务",
+      "count": "5"
+    }
+  ]
+}

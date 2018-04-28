@@ -1,0 +1,125 @@
+{
+  "datas": [
+    {
+      "failCount": 0,
+      "time": "00: 00",
+      "totalCount": 596
+    },
+    {
+      "failCount": 0,
+      "time": "01: 00",
+      "totalCount": 211
+    },
+    {
+      "failCount": 0,
+      "time": "02: 00",
+      "totalCount": 98
+    },
+    {
+      "failCount": 0,
+      "time": "03: 00",
+      "totalCount": 106
+    },
+    {
+      "failCount": 0,
+      "time": "04: 00",
+      "totalCount": 125
+    },
+    {
+      "failCount": 0,
+      "time": "05: 00",
+      "totalCount": 578
+    },
+    {
+      "failCount": 0,
+      "time": "06: 00",
+      "totalCount": 562
+    },
+    {
+      "failCount": 0,
+      "time": "07: 00",
+      "totalCount": 321
+    },
+    {
+      "failCount": 3,
+      "time": "08: 00",
+      "totalCount": 15439
+    },
+    {
+      "failCount": 5,
+      "time": "09: 00",
+      "totalCount": 30670
+    },
+    {
+      "failCount": 2,
+      "time": "10: 00",
+      "totalCount": 25608
+    },
+    {
+      "failCount": 1,
+      "time": "11: 00",
+      "totalCount": 10327
+    },
+    {
+      "failCount": 0,
+      "time": "12: 00",
+      "totalCount": 9327
+    },
+    {
+      "failCount": 2,
+      "time": "13: 00",
+      "totalCount": 10342
+    },
+    {
+      "failCount": 0,
+      "time": "14: 00",
+      "totalCount": 8037
+    },
+    {
+      "failCount": 0,
+      "time": "15: 00",
+      "totalCount": 4129
+    },
+    {
+      "failCount": 0,
+      "time": "16: 00",
+      "totalCount": 3765
+    },
+    {
+      "failCount": 0,
+      "time": "17: 00",
+      "totalCount": 3271
+    },
+    {
+      "failCount": 0,
+      "time": "18: 00",
+      "totalCount": 2036
+    },
+    {
+      "failCount": 0,
+      "time": "19: 00",
+      "totalCount": 1872
+    },
+    {
+      "failCount": 0,
+      "time": "20: 00",
+      "totalCount": 2003
+    },
+    {
+      "failCount": 0,
+      "time": "21: 00",
+      "totalCount": 1275
+    },
+    {
+      "failCount": 0,
+      "time": "22: 00",
+      "totalCount": 1327
+    },
+    {
+      "failCount": 0,
+      "time": "23: 00",
+      "totalCount": 327
+    }
+  ],
+  "success": true
+}

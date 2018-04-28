@@ -1,0 +1,37 @@
+{
+  "systemList": [
+    {
+      "sourcename": "CIS",
+      "nincredata": 93062
+    },
+    {
+      "sourcename": "HIS",
+      "nincredata": 1592600
+    },
+    {
+      "sourcename": "LIS",
+      "nincredata": 259110
+    },
+    {
+      "sourcename": "NDC",
+      "nincredata": 0
+    },
+    {
+      "sourcename": "NIS",
+      "nincredata": 42076
+    },
+    {
+      "sourcename": "RIS_BL",
+      "nincredata": 1784
+    },
+    {
+      "sourcename": "RIS_CS",
+      "nincredata": 14076
+    },
+    {
+      "sourcename": "RIS_FS",
+      "nincredata": 47726
+    }
+  ],
+  "success": true
+}

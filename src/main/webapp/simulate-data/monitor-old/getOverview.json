@@ -1,0 +1,9 @@
+{
+  "success":true,
+  "countToday":"74596",
+  "countTodayFail":"4",
+  "countHistory":"1221034",
+  "countApp":"21",
+  "countService":"28",
+  "esbRunningDays":"15"
+}

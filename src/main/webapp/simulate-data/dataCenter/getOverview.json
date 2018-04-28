@@ -1,0 +1,20 @@
+{
+  "appList": [
+    "RIS_FS",
+    "SM",
+    "CIS",
+    "RIS_CS",
+    "HIS",
+    "NIS",
+    "RIS_BL",
+    "LIS",
+    "BAGL"
+  ],
+  "countApp": 9,
+  "dataCheck": "96%",
+  "ageLimit": 9,
+  "jobMonitor": "99%",
+  "countMedicalRecord": 3160552,
+  "success": true,
+  "interfaceCheck": "96%"
+}

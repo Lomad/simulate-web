@@ -1,0 +1,65 @@
+{
+  "datas": [
+    {
+      "date": "2017-09",
+      "subnum": 4704,
+      "regnum": 358
+    },
+    {
+      "date": "2017-08",
+      "subnum": 8469,
+      "regnum": 1712
+    },
+    {
+      "date": "2017-07",
+      "subnum": 1741,
+      "regnum": 491
+    },
+    {
+      "date": "2017-06",
+      "subnum": 1756,
+      "regnum": 1
+    },
+    {
+      "date": "2017-05",
+      "subnum": 2404,
+      "regnum": 0
+    },
+    {
+      "date": "2017-04",
+      "subnum": 2877,
+      "regnum": 0
+    },
+    {
+      "date": "2017-03",
+      "subnum": 3674,
+      "regnum": 0
+    },
+    {
+      "date": "2017-02",
+      "subnum": 2868,
+      "regnum": 0
+    },
+    {
+      "date": "2017-01",
+      "subnum": 2712,
+      "regnum": 0
+    },
+    {
+      "date": "2016-12",
+      "subnum": 825,
+      "regnum": 0
+    },
+    {
+      "date": "2016-11",
+      "subnum": 1093,
+      "regnum": 0
+    },
+    {
+      "date": "2016-10",
+      "subnum": 1265,
+      "regnum": 0
+    }
+  ],
+  "success": true
+}

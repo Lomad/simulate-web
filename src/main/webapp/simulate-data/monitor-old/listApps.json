@@ -1,0 +1,14 @@
+{
+  "datas":[
+    {"id":"HIP0501","name":"监控平台"},
+    {"id":"HIP0102","name":"闭环展示"},
+    {"id":"HIP0202","name":"BI-大屏"},
+    {"id":"HIS0102","name":"门诊医生站"},
+    {"id":"HIP0101","name":"Portal"},
+    {"id":"HIS0105","name":"住院医生站"},
+    {"id":"HIP0203","name":"数据服务-HIP0203"},
+    {"id":"HIS0105","name":"住院医生站"},
+    {"id":"HIS0120","name":"移动护理系统"}
+  ],
+  "success":true
+}

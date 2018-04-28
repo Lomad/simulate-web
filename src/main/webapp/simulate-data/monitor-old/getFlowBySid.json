@@ -1,0 +1,45 @@
+{
+  "provider": {
+    "id": "数据服务",
+    "name": "HIP0203"
+  },
+  "consumer": [
+    {
+      "id": "BI-大屏",
+      "count": "231",
+      "countFail": "0",
+      "name": "BI-大屏"
+    },
+    {
+      "id": "闭环展示",
+      "count": "5317",
+      "countFail": "0",
+      "name": "闭环展示"
+    },
+    {
+      "id": "住院医生站",
+      "count": "10110",
+      "countFail": "3",
+      "name": "住院医生站"
+    },
+    {
+      "id": "门诊医生站",
+      "count": "563",
+      "countFail": "0",
+      "name": "门诊医生站"
+    },
+    {
+      "id": "EMPI",
+      "count": "537",
+      "countFail": "0",
+      "name": "EMPI"
+    },
+    {
+      "id": "MDM",
+      "count": "117",
+      "countFail": "1",
+      "name": "MDM"
+    }
+  ],
+  "success": true
+}

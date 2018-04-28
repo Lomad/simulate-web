@@ -1,0 +1,163 @@
+{
+  "datas": [{
+    "areaName": "上海",
+    "areaCode": "31",
+    "areaCount": 293582
+  },
+    {
+      "areaName": "江苏",
+      "areaCode": "32",
+      "areaCount": 21663
+    },
+    {
+      "areaName": "安徽",
+      "areaCode": "34",
+      "areaCount": 15555
+    },
+    {
+      "areaName": "浙江",
+      "areaCode": "33",
+      "areaCount": 9572
+    },
+    {
+      "areaName": "江西",
+      "areaCode": "36",
+      "areaCount": 5574
+    },
+    {
+      "areaName": "河南",
+      "areaCode": "41",
+      "areaCount": 4089
+    },
+    {
+      "areaName": "福建",
+      "areaCode": "35",
+      "areaCount": 2203
+    },
+    {
+      "areaName": "山东",
+      "areaCode": "37",
+      "areaCount": 2114
+    },
+    {
+      "areaName": "湖北",
+      "areaCode": "42",
+      "areaCount": 1488
+    },
+    {
+      "areaName": "四川",
+      "areaCode": "51",
+      "areaCount": 1473
+    },
+    {
+      "areaName": "湖南",
+      "areaCode": "43",
+      "areaCount": 1035
+    },
+    {
+      "areaName": "贵州",
+      "areaCode": "52",
+      "areaCount": 910
+    },
+    {
+      "areaName": "重庆",
+      "areaCode": "50",
+      "areaCount": 545
+    },
+    {
+      "areaName": "黑龙江",
+      "areaCode": "23",
+      "areaCount": 532
+    },
+    {
+      "areaName": "广东",
+      "areaCode": "44",
+      "areaCount": 511
+    },
+    {
+      "areaName": "内蒙古",
+      "areaCode": "15",
+      "areaCount": 486
+    },
+    {
+      "areaName": "云南",
+      "areaCode": "53",
+      "areaCount": 427
+    },
+    {
+      "areaName": "陕西",
+      "areaCode": "61",
+      "areaCount": 397
+    },
+    {
+      "areaName": "辽宁",
+      "areaCode": "21",
+      "areaCount": 387
+    },
+    {
+      "areaName": "河北",
+      "areaCode": "13",
+      "areaCount": 358
+    },
+    {
+      "areaName": "甘肃",
+      "areaCode": "62",
+      "areaCount": 322
+    },
+    {
+      "areaName": "广西",
+      "areaCode": "45",
+      "areaCount": 222
+    },
+    {
+      "areaName": "吉林",
+      "areaCode": "22",
+      "areaCount": 180
+    },
+    {
+      "areaName": "山西",
+      "areaCode": "14",
+      "areaCount": 171
+    },
+    {
+      "areaName": "西藏",
+      "areaCode": "54",
+      "areaCount": 146
+    },
+    {
+      "areaName": "新疆",
+      "areaCode": "65",
+      "areaCount": 144
+    },
+    {
+      "areaName": "北京",
+      "areaCode": "11",
+      "areaCount": 100
+    },
+    {
+      "areaName": "青海",
+      "areaCode": "63",
+      "areaCount": 66
+    },
+    {
+      "areaName": "宁夏",
+      "areaCode": "64",
+      "areaCount": 55
+    },
+    {
+      "areaName": "天津",
+      "areaCode": "12",
+      "areaCount": 35
+    },
+    {
+      "areaName": "海南",
+      "areaCode": "46",
+      "areaCount": 33
+    },
+    {
+      "areaName": "台湾",
+      "areaCode": "71",
+      "areaCount": 5
+    }],
+  "success": true
+}

@@ -1,0 +1,104 @@
+{
+  "success": true,
+  "errorMsg": "错误信息",
+  "asProvider": [
+    {
+      "id": "HIS0102",
+      "name": "门诊医生站",
+      "count": "26591",
+      "countFail": "4"
+    },
+    {
+      "id": "HIS0105",
+      "name": "住院医生站",
+      "count": "18623",
+      "countFail": "2"
+    },
+    {
+      "id": "HIS0101",
+      "name": "门急诊挂号系统",
+      "count": "10665",
+      "countFail": "2"
+    },
+    {
+      "id": "HIS0201",
+      "name": "门急诊收费系统",
+      "count": "16123",
+      "countFail": "0"
+    },
+    {
+      "id": "HIS0118",
+      "name": "体检管理系统",
+      "count": "8623",
+      "countFail": "3"
+    },
+    {
+      "id": "HIS0202",
+      "name": "住院收费系统",
+      "count": "5623",
+      "countFail": "0"
+    },
+    {
+      "id": "HIS0109",
+      "name": "临床检验系统",
+      "count": "4623",
+      "countFail": "1"
+    },
+    {
+      "id": "HIS0115",
+      "name": "输血管理系统",
+      "count": "623",
+      "countFail": "0"
+    }
+  ],
+  "asConsumer": [
+    {
+      "id": "HIS0102",
+      "name": "门诊医生站",
+      "count": "26591",
+      "countFail": "4"
+    },
+    {
+      "id": "HIS0105",
+      "name": "住院医生站",
+      "count": "18623",
+      "countFail": "2"
+    },
+    {
+      "id": "HIS0101",
+      "name": "门急诊挂号系统",
+      "count": "10665",
+      "countFail": "2"
+    },
+    {
+      "id": "HIS0201",
+      "name": "门急诊收费系统",
+      "count": "16123",
+      "countFail": "0"
+    },
+    {
+      "id": "HIS0118",
+      "name": "体检管理系统",
+      "count": "8623",
+      "countFail": "3"
+    },
+    {
+      "id": "HIS0202",
+      "name": "住院收费系统",
+      "count": "5623",
+      "countFail": "0"
+    },
+    {
+      "id": "HIS0109",
+      "name": "临床检验系统",
+      "count": "4623",
+      "countFail": "1"
+    },
+    {
+      "id": "HIS0115",
+      "name": "输血管理系统",
+      "count": "623",
+      "countFail": "0"
+    }
+  ]
+}

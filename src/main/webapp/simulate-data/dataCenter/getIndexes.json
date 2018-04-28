@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "datas": {
+    "CDR": {
+      "db": 21,
+      "dbKind": "SqlServer",
+      "disk": 29,
+      "countFail": "0.0",
+      "name": "CDR",
+      "cpu": 1,
+      "extractData": "553512.0",
+      "memory": 83,
+      "countSuccess": "666.0",
+      "ipAddress": "192.16.202.43"
+    },
+    "ODS": {
+      "db": 24,
+      "dbKind": "SqlServer",
+      "disk": 60,
+      "countFail": "1.0",
+      "name": "ODS",
+      "cpu": 5,
+      "extractData": "2077341.0",
+      "memory": 54,
+      "countSuccess": "1737.0",
+      "ipAddress": "192.16.202.40"
+    },
+    "ODR": {
+      "db": 19,
+      "dbKind": "SqlServer",
+      "disk": 35,
+      "countFail": "1.0",
+      "name": "ODR",
+      "cpu": 11,
+      "extractData": "1325268.0",
+      "memory": 76,
+      "countSuccess": "985.0",
+      "ipAddress": "192.16.202.48"
+    },
+    "BU": {
+      "db": 25,
+      "dbKind": "SqlServer",
+      "disk": 71,
+      "countFail": "1.0",
+      "name": "BU",
+      "cpu": 23,
+      "extractData": "2077341.0",
+      "memory": 87,
+      "countSuccess": "1737.0",
+      "ipAddress": "192.16.202.40"
+    },
+    "WDK":{
+      "db": 16,
+      "dbKind": "SqlServer",
+      "disk": 39,
+      "countFail": "0.0",
+      "name": "CDR",
+      "cpu": 7,
+      "extractData": "553512.0",
+      "memory": 65,
+      "countSuccess": "666.0",
+      "ipAddress": "192.16.202.43"
+    }
+  }
+}

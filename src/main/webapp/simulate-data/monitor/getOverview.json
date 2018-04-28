@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "countToday": "74596",
+  "countTodayFail": "13",
+  "countHistory": "1221034",
+  "countApp": "21",
+  "countService": "28",
+  "esbRunningDays": "15",
+  "topForTotal": [
+    {
+      "serviceName": "个人基本信息查询",
+      "count": "19642"
+    },
+    {
+      "serviceName": "门诊就诊查询服务",
+      "count": "8723"
+    },
+    {
+      "serviceName": "住院就诊登记服务",
+      "count": "5791"
+    },
+    {
+      "serviceName": "检查报告发布",
+      "count": "5026"
+    },
+    {
+      "serviceName": "出院信息查询",
+      "count": "3118"
+    }
+  ],
+  "topForError": [
+    {
+      "serviceName": "新增个人身份注册",
+      "count": "5"
+    },
+    {
+      "serviceName": "个人基本信息查询",
+      "count": "3"
+    },
+    {
+      "serviceName": "出院登记服务",
+      "count": "2"
+    },
+    {
+      "serviceName": "个人身份合并",
+      "count": "2"
+    },
+    {
+      "serviceName": "医疗卫生人员更新服务调用",
+      "count": "1"
+    }
+  ]
+}

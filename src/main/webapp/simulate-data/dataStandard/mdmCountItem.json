@@ -1,0 +1,25 @@
+{
+  "datas": [
+    {
+      "name": "人员",
+      "count": 2564,
+      "reg": 23
+    },
+    {
+      "name": "科室",
+      "count": 207,
+      "reg": 3
+    },
+    {
+      "name": "项目",
+      "count": 4406,
+      "reg": 52
+    },
+    {
+      "name": "诊断",
+      "count": 21939,
+      "reg": 18
+    }
+  ],
+  "success": true
+}

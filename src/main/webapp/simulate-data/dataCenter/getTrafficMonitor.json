@@ -1,0 +1,101 @@
+{
+  "pointList": [
+    {
+      "xaxis": "00:00",
+      "nincredata": 0
+    },
+    {
+      "xaxis": "01:00",
+      "nincredata": 0
+    },
+    {
+      "xaxis": "02:00",
+      "nincredata": 0
+    },
+    {
+      "xaxis": "03:00",
+      "nincredata": 0
+    },
+    {
+      "xaxis": "04:00",
+      "nincredata": 0
+    },
+    {
+      "xaxis": "05:00",
+      "nincredata": 0
+    },
+    {
+      "xaxis": "06:00",
+      "nincredata": 919544
+    },
+    {
+      "xaxis": "07:00",
+      "nincredata": 24398
+    },
+    {
+      "xaxis": "08:00",
+      "nincredata": 80284
+    },
+    {
+      "xaxis": "09:00",
+      "nincredata": 183530
+    },
+    {
+      "xaxis": "10:00",
+      "nincredata": 201242
+    },
+    {
+      "xaxis": "11:00",
+      "nincredata": 190914
+    },
+    {
+      "xaxis": "12:00",
+      "nincredata": 121504
+    },
+    {
+      "xaxis": "13:00",
+      "nincredata": 138632
+    },
+    {
+      "xaxis": "14:00",
+      "nincredata": 190386
+    },
+    {
+      "xaxis": "15:00",
+      "nincredata": 241054
+    },
+    {
+      "xaxis": "16:00",
+      "nincredata": 287793
+    },
+    {
+      "xaxis": "17:00",
+      "nincredata": 174823
+    },
+    {
+      "xaxis": "18:00",
+      "nincredata": 123254
+    },
+    {
+      "xaxis": "19:00",
+      "nincredata": 81386
+    },
+    {
+      "xaxis": "20:00",
+      "nincredata": 10473
+    },
+    {
+      "xaxis": "21:00",
+      "nincredata": 428
+    },
+    {
+      "xaxis": "22:00",
+      "nincredata": 0
+    },
+    {
+      "xaxis": "23:00",
+      "nincredata": 0
+    }
+  ],
+  "success": true
+}

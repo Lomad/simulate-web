@@ -1,0 +1,33 @@
+{
+  "datas": [
+    {
+      "nincredata": 13,
+      "xaxis": "2017-10-17"
+    },
+    {
+      "nincredata": 15,
+      "xaxis": "2017-10-18"
+    },
+    {
+      "nincredata": 25,
+      "xaxis": "2017-10-19"
+    },
+    {
+      "nincredata": 0,
+      "xaxis": "2017-10-20"
+    },
+    {
+      "nincredata": 0,
+      "xaxis": "2017-10-21"
+    },
+    {
+      "nincredata": 0,
+      "xaxis": "2017-10-22"
+    },
+    {
+      "nincredata": 19,
+      "xaxis": "2017-10-23"
+    }
+  ],
+  "success": true
+}

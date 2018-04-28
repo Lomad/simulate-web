@@ -1,0 +1,151 @@
+{
+  "consumeService": [
+    {
+      "count": 61,
+      "countFail": 0,
+      "id": "HIP010103",
+      "name": "碎片调阅-门诊处方"
+    },
+    {
+      "count": 61,
+      "countFail": 0,
+      "id": "HIP010105",
+      "name": "碎片调阅-病理资料"
+    },
+    {
+      "count": 61,
+      "countFail": 0,
+      "id": "HIP010106",
+      "name": "碎片调阅-检查报告"
+    },
+    {
+      "count": 2,
+      "countFail": 0,
+      "id": "HIP010107",
+      "name": "碎片调阅-检验报告"
+    },
+    {
+      "count": 9554,
+      "countFail": 0,
+      "id": "HIP050101",
+      "name": "获取ESB概要信息"
+    },
+    {
+      "count": 13667,
+      "countFail": 24,
+      "id": "HIP020208",
+      "name": "实时病种指标分析"
+    },
+    {
+      "count": 13672,
+      "countFail": 22,
+      "id": "HIP020205",
+      "name": "实时挂号人次分析"
+    },
+    {
+      "count": 13674,
+      "countFail": 24,
+      "id": "HIP020203",
+      "name": "实时门诊科室预约"
+    },
+    {
+      "count": 27234,
+      "countFail": 46,
+      "id": "HIP020206",
+      "name": "实时关注项目等待人次"
+    },
+    {
+      "count": 13638,
+      "countFail": 24,
+      "id": "HIP020204",
+      "name": "实时全院费用"
+    },
+    {
+      "count": 766,
+      "countFail": 1,
+      "id": "HIP020202",
+      "name": "实时临床科室就诊及候诊状态"
+    },
+    {
+      "count": 13616,
+      "countFail": 22,
+      "id": "HIP020201",
+      "name": "实时写入关注指标"
+    },
+    {
+      "count": 13616,
+      "countFail": 22,
+      "id": "HIP020209",
+      "name": "患者预约途径"
+    },
+    {
+      "count": 20,
+      "countFail": 16,
+      "id": "HIP050102",
+      "name": "获取业务系统列表"
+    },
+    {
+      "count": 10,
+      "countFail": 0,
+      "id": "HIP050103",
+      "name": "获取业务系统相关服务情况"
+    }
+  ],
+  "provideService": [
+    {
+      "count": 9896,
+      "countFail": 0,
+      "id": "HIP050101",
+      "name": "获取ESB概要信息"
+    },
+    {
+      "count": 20,
+      "countFail": 16,
+      "id": "HIP050102",
+      "name": "获取业务系统列表"
+    },
+    {
+      "count": 11,
+      "countFail": 0,
+      "id": "HIP050103",
+      "name": "获取业务系统相关服务情况"
+    },
+    {
+      "count": 11,
+      "countFail": 0,
+      "id": "HIP050104",
+      "name": "获取服务交互的流程"
+    },
+    {
+      "count": 16,
+      "countFail": 0,
+      "id": "HIP010209",
+      "name": "手术闭环"
+    },
+    {
+      "count": 1,
+      "countFail": 0,
+      "id": "HIP010210",
+      "name": "患者院内追踪"
+    },
+    {
+      "count": 1,
+      "countFail": 0,
+      "id": "HIP010211",
+      "name": "E-MAR"
+    },
+    {
+      "count": 1,
+      "countFail": 0,
+      "id": "HIP010212",
+      "name": "患者病情概览-问题清单"
+    },
+    {
+      "count": 0,
+      "countFail": 0,
+      "id": "HIP010201",
+      "name": "口服药物流闭环"
+    }
+  ],
+  "success": true
+}
